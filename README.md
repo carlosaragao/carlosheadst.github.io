@@ -20,4 +20,4 @@ Alguns artigos que estou escrevendo
 
 ### Imagens
 
-[![Como criar uma aplicação serverless com mensageria utilizando HerbsJS e AWS SQS](https://lab.vortx.com.br/content/images/size/w2000/2022/09/lambda-layers-header.png)](https://lab.vortx.com.br/como-criar-uma-aplicacao-serverless-com-mensageria-utilizando-herbs-e-aws-sqs/)
+[![Como criar uma aplicação serverless com mensageria utilizando HerbsJS e AWS SQS](https://lab.vortx.com.br/content/images/size/w2000/2022/09/lambda-layers-header.png)](https://lab.vortx.com.br/como-criar-uma-aplicacao-serverless-com-mensageria-utilizando-herbs-e-aws-sqs/ "Como criar uma aplicação serverless com mensageria utilizando HerbsJS e AWS SQS")
