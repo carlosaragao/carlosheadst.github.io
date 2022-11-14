@@ -1,4 +1,4 @@
-# Carlos Aragão
+# Carlos Expedito Rodrigues Aragão
 
 Olá, me chamo Carlos Aragão, sou Desenvolvedor Fullstack na Vortx, atuo com tecnologias back-end, front-end, Serverless, AWS, Graduado em Ciência da Computação pela UNIP e Pós Graduando em Data Science and Analytics pelo MBA USP/ESALQ. Resido atualmente em São Paulo.
 
